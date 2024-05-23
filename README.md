@@ -27,9 +27,8 @@ This repository contains the source code for the Club Coffee website, a visually
 
 To run this website locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/club-coffee-website.git`
-2. Navigate to the project directory: `cd club-coffee-website`
-3. Open the `index.html` file in your preferred web browser.
+1. Clone the repository: `git clone https://github.com/Student408/club-coffee.git`
+2. Open the `index.html` file in your preferred web browser.
 
 ## Customization
 
